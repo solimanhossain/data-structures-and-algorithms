@@ -4,22 +4,34 @@
 
 <br>
 
-## Algorithms
+# Algorithms
 
-### [Searching](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/search)
+## [Searching](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/search)
 
--   Linear Search
+### Linear Search
 
--   Binary Search
+-   **Summery :** _Checks **sequentially each element** of an array for a match, returning it's index if found._
+-   **Complexity :** ◉ Time _`O(1) ⇌ O(n)`_ ▣ Space _`O(1)`_
 
-### [Sorting](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/sort)
+### Binary Search
 
--   Quick Sort
--   Merge Sort
+-   **Summery :** _Checks in a **sorted array** by repeatedly halving the search space based on comparisons with the **middle element**._
+-   **Complexity :** ◉ Time _`O(1) ⇌ O(log n)`_ ▣ Space _`O(1)`_
+
+## [Sorting](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/sort)
+
+### Selection Sort
+
+-   **Summery :** _Repeatedly finds the **minimum element** and places it at the **beginning**, gradually building a sorted **subarray**._
+-   **Complexity :** ◉ Time _`O(n^2)`_ ▣ Space _`O(1)`_
+
+### Quick Sort
+
+### Merge Sort
 
 <br>
 
-## Data Structures
+# Data Structures
 
 ### [Dynamic Structure](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/dynamic)
 
