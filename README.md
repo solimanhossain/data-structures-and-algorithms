@@ -25,9 +25,15 @@
 -   **Summery :** _Repeatedly finds the **minimum element** and places it at the **beginning**, gradually building a sorted **subarray**._
 -   **Complexity :** ◉ Time _`O(n^2)`_ ▣ Space _`O(1)`_
 
-### Quick Sort
+### Bubble Sort
 
-### Merge Sort
+-   **Summery :** _Repeatedly **compares** adjacent elements, **swapping** them if out of order, to gradually move **larger elements to the end**._
+-   **Complexity :** ◉ Time _`O(n) ⇌ O(n^2)`_ ▣ Space _`O(1)`_
+
+### Insertion Sort
+
+-   **Summery :** _Repeatedly **compares adjacent** elements, **swapping** them if out of **order**, to gradually move larger elements to the end._
+-   **Complexity :** ◉ Time _`O(n) ⇌ O(n^2)`_ ▣ Space _`O(1)`_
 
 <br>
 
