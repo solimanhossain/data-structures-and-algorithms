@@ -39,13 +39,13 @@
 
 # Data Structures
 
-### [Dynamic Structure](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/dynamic)
+### [Linear & Dynamic](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/dynamic)
 
 -   Stack
 -   Queue
 -   Link List
 
-### [Non-Linear Structure](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/nonLinear)
+### [Non-Linear](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/nonLinear)
 
 -   Tree
 -   Graph
