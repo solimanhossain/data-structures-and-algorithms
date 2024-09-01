@@ -41,9 +41,19 @@
 
 ### [Linear & Dynamic](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/dynamic)
 
--   Stack
--   Queue
--   Link List
+### Queue **(FIFO)**
+
+-   **Summery :** _Queue is a linear data structure that follows the FIFO **(First-In, First-Out)** principle. Elements are **added at one end (rear)** and **removed from the other end (front)**._
+-   **Operayions :** Enqueue, Dequeue, Peek/Front, IsEmpty, IsFull.
+
+### Stack **(LIFO)**
+
+-   **Summery :** _stack is a linear data structure that follows the LIFO **(Last-In, First-Out)** principle. Elements are **added and removed from the same end (front)**, called the top of the stack._
+-   **Operayions :** Push, Pop, Peek, IsEmpty, IsFull.
+
+---
+
+### Link List
 
 ### [Non-Linear](https://github.com/solimanhossain/data-structures-and-algorithms/tree/main/nonLinear)
 
